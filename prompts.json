@@ -191,4 +191,52 @@
     "answer": "Pablo Picasso",
     "description": ["which", "famous", "spanish", "artist", "shared", "first", "name", "with", "druglord", "escobar"]
   }
+  {
+    "answer": "Muhammad Ali",
+    "description": ["which", "heavyweight", "champion", "boxer", "wrote", "the", "autobiography", "the", "greatest"]
+  }
+  {
+    "answer": "Pluto",
+    "description": ["what", "is", "the", "name", "of", "mickey", "mouse's", "pet", "dog"]
+  }
+  {
+    "answer": "Istanbul",
+    "description": ["Constantinople", "went", "on", "to", "be", "known", "as", "which", "turkish", "city"]
+  }
+  {
+    "answer": "Charles Darwin",
+    "description": ["who", "famously", "developed", "the", "theory", "of", "evolution"]
+  }
+  {
+    "answer": "1000",
+    "description": ["how", "many", "grams", "are", "in", "a", "kilogram"]
+  }
+  {
+    "answer": "Scrabble",
+    "description": ["which", "famous", "game", "involves", "using", "letter", "tiles", "to", "make", "words"]
+  }
+  {
+    "answer": "Scotland",
+    "description": ["kilts", "are", "traditionally", "associated", "with", "which", "country"]
+  }
+  {
+    "answer": "Mars",
+    "description": ["which", "planet", "is", "known", "as", "the", "red", "planet"]
+  }
+  {
+    "answer": "Seine",
+    "description": ["which", "river", "runs", "through", "paris", "and", "rhymes", "with", "10"]
+  }
+  {
+    "answer": "Pilot/Aviator",
+    "description": ["amelia", "earhart", "was", "known", "famously", "for", "what", "occupation"]
+  }
+  {
+    "answer": "Two",
+    "description": ["one", "bottle", "is", "equal", "to", "how", "many", "magnum", "wine", "bottles"]
+  }
+  {
+    "answer": "Sumo",
+    "description": ["what", "full", "contact", "sport", "is", "the", "national", "sport", "of", "japan"]
+  }
 ]
