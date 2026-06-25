@@ -1,2 +1,25 @@
 # in-a-nutshell
 A Cracking Game where Less is More! The fewer words you reveal, the more points you score. Will your team take the risk and crack the nut?
+
+## Developing
+
+Once you've created a project and installed dependencies with `pnpm install`, start a development server:
+
+```sh
+pnpm run dev
+
+# or start the server and open the app in a new browser tab
+pnpm run dev -- --open
+```
+
+## Building
+
+To create a production version of your app:
+
+```sh
+pnpm run build
+```
+
+You can preview the production build with `pnpm run preview`.
+
+> To deploy your app, you may need to install an [adapter](https://svelte.dev/docs/kit/adapters) for your target environment.
