@@ -1,4 +1,4 @@
-[
+export const promptData = [
   {
     "answer": "Rolex",
     "description": ["which", "swiss", "watch", "brand", "features", "a", "distinctive", "crown"]
@@ -56,10 +56,6 @@
     "description": ["what", "prison", "was", "on", "an", "island", "in", "san", "francisco", "bay"]
   },
   {
-    "answer": "Buzz Lightyear",
-    "description": ["which", "character", "has", "the", "catchphrase", "to", "infinity", "and", "beyond"]
-  },
-  {
     "answer": "Marvel",
     "description": ["which", "comic", "book", "company", "created", "iron", "man"]
   },
@@ -76,20 +72,12 @@
     "description": ["which", "company", "developed", "the", "play", "station", "console"]
   },
   {
-    "answer": "Buzz Lightyear",
-    "description": ["which", "character", "has", "the", "catchphrase", "to", "infinity", "and", "beyond"]
-  },
-  {
-    "answer": "Portugese",
+    "answer": "Portuguese",
     "description": ["what", "is", "the", "primary", "language", "spoken", "in", "brazil"]
   },
   {
     "answer": "Spaghetti",
     "description": ["what", "type", "of", "pasta", "is", "traditionally", "served", "with", "carbonara", "sauce"]
-  },
-  {
-    "answer": "Buzz Lightyear",
-    "description": ["which", "character", "has", "the", "catchphrase", "to", "infinity", "and", "beyond"]
   },
   {
     "answer": "Britney Spears",
@@ -134,10 +122,6 @@
   {
     "answer": "Saddle",
     "description": ["what", "is", "the", "rider's", "saet", "called", "on", "a", "horse"]
-  },
-  {
-    "answer": "Pablo Picasso",
-    "description": ["which", "famous", "spanish", "artist", "shared", "first", "name", "with", "druglord", "escobar"]
   },
   {
     "answer": "Pearl",
