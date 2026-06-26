@@ -1,2 +1,13 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://svelte.dev/docs/kit">svelte.dev/docs/kit</a> to read the documentation</p>
+<script lang="ts">
+  import Tower from "$lib/components/Tower.svelte";
+
+  const words = ["which", "swiss", "watch", "brand", "features", "a", "distinctive", "crown"];
+</script>
+
+<div class="flex-1 p-12 flex flex-col items-center gap-6">
+  <Tower 
+    {words} 
+    answer="rolex"
+    role="guesser"
+  />
+</div>
